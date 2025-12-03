@@ -1,39 +1,27 @@
 # Rock_Paper_and_Scissor
-Welcome to the Rock Paper Scissors game! This simple web application allows you to play the classic game against the computer.
 
-# Introduction
-The Rock Paper Scissors game is built using HTML, CSS, and JavaScript. It provides an interactive interface where users can select their move (rock, paper, or scissors) and play against the computer. The game logic is implemented using JavaScript to determine the winner based on the selected moves.
+A simple and interactive Rock Paper Scissors web game where users play against a computer with randomized moves.
 
-# Features
-1.User vs. Computer: Play against the computer and test your luck and strategy in the classic game of Rock Paper Scissors.
+## Introduction
+This Rock Paper Scissors game is built using HTML, CSS, and JavaScript. Users can choose between rock, paper, or scissors and instantly play against a computer opponent. JavaScript handles the game logic and determines the winner based on the selected moves.
 
-2.Interactive Interface: The game interface is user-friendly and responsive, allowing for easy selection of moves and displaying the game results.
+## Features
+1. **User vs. Computer:** Play against a computer opponent with randomized choices.  
+2. **Interactive Interface:** Clean and responsive UI for easy interaction.  
+3. **Randomized Computer Moves:** Every round is unpredictable, ensuring fair gameplay.  
 
-3.Randomized Computer Moves: The computer's move is randomly generated, ensuring an unpredictable and fair gameplay experience.
+## Usage
+1. Open the project in a browser by launching the `index.html` file.  
+2. Choose a move: rock, paper, or scissors.  
+3. The computer will automatically generate a move.  
+4. View the result showing both choices and the winner.  
+5. Play again by selecting another move.  
 
-# Usage
-Open the game in a web browser by accessing the index.html file.
-
-Click on one of the available move options: rock, paper, or scissors.
-
-The computer will randomly select its move.
-
-The game will display the selected moves and announce the winner (or a tie) based on the game rules: rock beats scissors, paper beats rock, and scissors beat paper.
-
-Play again by selecting another move.
-
-# Contributing
-
-Contributions to the Rock Paper Scissors game are welcome! If you have any ideas, suggestions, or improvements, please follow these steps:
-
-Fork the repository on GitHub: rock-paper-scissors.
-
-Create a new branch with a descriptive name for your feature or improvement.
-
-Make your changes, following the coding conventions and best practices.
-
-Test your changes thoroughly.
-
-Commit and push your changes to your forked repository.
-
-Open a pull request to the original repository, describing the changes you have made.
+## Contributing
+Contributions are welcome!  
+1. Fork the repository.  
+2. Create a new branch for your feature or fix.  
+3. Make your changes following clean coding practices.  
+4. Test thoroughly.  
+5. Commit and push your updates.  
+6. Submit a pull request with a clear description of the changes.  
